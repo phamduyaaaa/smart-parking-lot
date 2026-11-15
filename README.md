@@ -1,9 +1,4 @@
-<p align="center">
-  <img src="assets/haui-logo.png" alt="HaUI Logo" width="80" />
-</p>
-
 # 🚗 Hệ Thống Giám Sát Bãi Giữ Xe Thông Minh (Smart Parking Lot)
-> **Đồ án Cơ điện tử - K18 | Trường Đại học Công nghiệp Hà Nội (HaUI)**  
 > Công nghệ: **RFID RC522 (Soft-SPI) | Camera USB | PaddleOCR | ESP32-S3 | Python Tkinter | SQLite**
 
 ---
