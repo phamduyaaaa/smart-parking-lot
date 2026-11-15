@@ -1,0 +1,7 @@
+.venv/
+__pycache__/
+parking_records.csv
+parking.db
+parking.db-shm
+parking.db-wal
+captures/

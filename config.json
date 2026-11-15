@@ -1,0 +1,15 @@
+{
+  "camera_ids": {
+    "IN": 2,
+    "OUT": 1
+  },
+  "serial_port": "COM5",
+  "baud_rate": 115200,
+  "camera_width": 640,
+  "camera_height": 480,
+  "rfid_repeat_seconds": 5,
+  "database_file": "parking.db",
+  "legacy_records_file": "parking_records.csv",
+  "captures_directory": "captures",
+  "total_parking_slots": 50
+}
